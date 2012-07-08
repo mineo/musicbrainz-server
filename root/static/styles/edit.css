@@ -39,7 +39,7 @@ table.vote-tally tr.first {
 }
 
 table.vote-tally th {
-    text-align: right;
+    text-align: left;
     white-space: nowrap;
 }
 
